@@ -1,0 +1,18 @@
+#root{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.card {
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+  margin: 2px;
+  border-radius: 25px;
+}
+
+.card-image {
+  height: 50px;
+  width: 50px;
+}
